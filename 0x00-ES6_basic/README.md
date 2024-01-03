@@ -20,4 +20,4 @@ ES6 (ECMAScript 2015) is a major update to the JavaScript language specification
 
 10. Modules: ES6 introduced a standardized module system for JavaScript, allowing for better organization and reusability of code. Modules enable developers to export and import functions, objects, or values between different files, providing better encapsulation and reducing global namespace pollution.
 
-These are just some of the key features introduced in ES6. ES6 has brought significant improvements to JavaScript, making it a more powerful and modern programming language. Since ES6, subsequent versions of ECMAScript have been released, each introducing new features and enhancements to the language.
+These are just some of the key features introduced in ES6. ES6 has brought significant improvements to JavaScript, making it a more powerful and modern programming language. Since ES6, subsequent versions of ECMAScript have been released, each introducing new features and enhancements to the language...
